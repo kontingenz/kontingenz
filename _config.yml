@@ -1,5 +1,5 @@
 url: https://kontingenz.github.io
-baseurl: /a
+baseurl: ""
 
 # Site settings
 title: Kontingenz
@@ -9,7 +9,7 @@ description: "Data science."
 
 # Team names, titles and social links
 people:
-- name: Felix Müller
+- name: Christoph Schwerdtfeger
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Philipp Müller
   pic: 2
   position: Lead Marketer
   social:
@@ -31,8 +31,19 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Felix Müller
   pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Luke Miller
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
