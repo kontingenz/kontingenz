@@ -12,7 +12,7 @@ people:
 
 - name: Luke Miller
   pic: 4
-  position: Physicist 
+  position: Physiker 
   social:
     # - title: twitter
     #   url: #
@@ -22,7 +22,7 @@ people:
     #   url: #
 - name: Felix Müller
   pic: 3
-  position: Software developer
+  position: Software Entwickler
   social:
     # - title: twitter
     #   url: #
@@ -32,7 +32,7 @@ people:
     #   url: #
 - name: Philipp Müller
   pic: 2
-  position: Economist
+  position: Ökonom
   social:
     # - title: twitter
     #   url: #
@@ -44,7 +44,7 @@ people:
 
 - name: Christoph Schwerdtfeger
   pic: 1
-  position: Mathematician
+  position: Mathematiker
   social:
     # - title: twitter
     #   url: #
