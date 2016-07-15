@@ -628,12 +628,13 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    margin: 0 auto 50px auto;
     text-align: center;
 }
 
 .team-member img {
     margin: 0 auto;
+    width: 200px;
     border: 7px solid #fff;
 }
 
