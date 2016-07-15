@@ -10,6 +10,13 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+/* patch bootstrap to not use lg container sizes but md */
+@media(min-width:1200px) {
+    .container {
+        width:970px;
+   }
+}
+
 .text-muted {
     #{{ site.data.template.color.muted }};
 }
